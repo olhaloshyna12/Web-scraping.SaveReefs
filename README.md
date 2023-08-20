@@ -7,7 +7,7 @@ The project based on 🐠The world’s reefs are dying. Here’s how to save the
 - Chosing the [URL](https://medium.com/the-economist/the-worlds-reefs-are-dying-here-s-how-to-save-them-2326bcf2e2af) for scrape.
 - Writing codes and using HuggingFace model cards to extract the data. Organizing the data efficiently, describing all the work done in JupyterNotebook for the codes/models used.
 - Storing the data in the required format.
-- Using BeautifulSoup, pandas, numpy, matplotlib.pyplot, transformers, PIL, SentenceTransformer to perform quality web-scraping
+- Using BeautifulSoup, pandas, numpy, matplotlib.pyplot, transformers, PIL, SentenceTransformer to perform quality web-scraping.
 
 ## 🐠The world’s reefs are dying. Here’s how to save them🐢
 The article explores the challenges faced by coral reefs due to human activities and climate change. It highlights the beauty and ecological significance of coral ecosystems, discussing their vulnerability to overfishing, pollution, and global warming. The impact of rising greenhouse gases, bleaching events, and the loss of symbiotic algae are described. The importance of marine protected areas (MPAs) is emphasized, along with the difficulties in enforcing regulations. The article also mentions innovative solutions like surveillance drones and coral restoration techniques. The complexity of coral ecosystems and the need for long-term strategies to protect them are discussed. Researchers are working on methods to enhance coral resilience through selective breeding and engineering reef ecosystems. Despite challenges, efforts are being made to save these vital marine habitats.
