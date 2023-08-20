@@ -14,3 +14,4 @@ The article explores the challenges faced by coral reefs due to human activities
 
 ## 🔧 Tool
 - Python (Version: 3.11.4)
+Python is an excellent choice for developers for building web scrapers because it includes native libraries designed exclusively for web scraping. Easy to Understand/Reading a Python code is similar to reading an English statement.
